@@ -1,3 +1,4 @@
+# Bravotech-store
 <!DOCTYPE html><html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -63,19 +64,19 @@
         <img src="https://via.placeholder.com/200" alt="Product 1">
         <h3>Smart Watch</h3>
         <p>$50.00</p>
-        <a href="https://wa.me/+234 805 875 124?text=Hello%20Bravotech%2C%20I%20want%20to%20buy%20Smart%20Watch" target="_blank"><button>Buy Now</button></a>
+        <a href="https://wa.me/2340000000000?text=Hello%20Bravotech%2C%20I%20want%20to%20buy%20Smart%20Watch" target="_blank"><button>Buy Now</button></a>
       </div>
       <div class="card">
         <img src="https://via.placeholder.com/200" alt="Product 2">
         <h3>Wireless Earbuds</h3>
         <p>$30.00</p>
-        <a href="https://wa.me/+234 805 875 124?text=Hello%20Bravotech%2C%20I%20want%20to%20buy%20Wireless%20Earbuds" target="_blank"><button>Buy Now</button></a>
+        <a href="https://wa.me/2340000000000?text=Hello%20Bravotech%2C%20I%20want%20to%20buy%20Wireless%20Earbuds" target="_blank"><button>Buy Now</button></a>
       </div>
       <div class="card">
         <img src="https://via.placeholder.com/200" alt="Product 3">
         <h3>Bluetooth Speaker</h3>
         <p>$40.00</p>
-        <a href="https://wa.me/+234 805 875 124?text=Hello%20Bravotech%2C%20I%20want%20to%20buy%20Bluetooth%20Speaker" target="_blank"><button>Buy Now</button></a>
+        <a href="https://wa.me/2340000000000?text=Hello%20Bravotech%2C%20I%20want%20to%20buy%20Bluetooth%20Speaker" target="_blank"><button>Buy Now</button></a>
       </div>
     </div>
   </section>  <section id="gallery" class="container">
@@ -88,7 +89,7 @@
   </section>  <section id="contact" class="container">
     <h2>Contact Us</h2>
     <p>Email: bravotech@gmail.com</p>
-    <p>WhatsApp: +234 805 875 124</p>
+    <p>WhatsApp: +234 000 000 0000</p>
   </section>  <footer>
     <p>&copy; 2025 Bravotech. All rights reserved.</p>
   </footer>

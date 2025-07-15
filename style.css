@@ -88,3 +88,90 @@ footer {
   color: white;
   margin-top: 4rem;
 }
+
+.hero {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+  margin-top: 3rem;
+  animation: fadeIn 1s ease-in-out;
+}
+.hero-text h2 {
+  font-size: 2.5rem;
+  color: #00b4d8;
+  margin-bottom: 1rem;
+}
+.hero-text p {
+  font-size: 1.1rem;
+  color: #ccc;
+}
+.hero-btn {
+  margin-top: 1.5rem;
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  background-color: #00b4d8;
+  color: #000;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.hero-image img {
+  max-width: 100%;
+  border-radius: 12px;
+}
+.features {
+  margin-top: 4rem;
+  text-align: center;
+}
+.feature-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  justify-content: center;
+  margin-top: 2rem;
+}
+.feature-card {
+  background: #16212e;
+  padding: 2rem;
+  border-radius: 10px;
+  flex: 1;
+  max-width: 300px;
+  min-width: 200px;
+  color: #ccc;
+}
+.feature-card h3 {
+  color: #00b4d8;
+  margin-bottom: 1rem;
+}
+.newsletter {
+  text-align: center;
+  margin-top: 4rem;
+}
+.newsletter h2 {
+  margin-bottom: 0.5rem;
+  color: #00b4d8;
+}
+.newsletter form {
+  margin-top: 1rem;
+}
+.newsletter input {
+  padding: 0.75rem;
+  border: none;
+  border-radius: 6px;
+  width: 250px;
+  margin-right: 0.5rem;
+}
+.newsletter button {
+  padding: 0.75rem 1.2rem;
+  border: none;
+  border-radius: 6px;
+  background: #00b4d8;
+  cursor: pointer;
+  color: #000;
+}
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}

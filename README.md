@@ -1,4 +1,3 @@
-# Bravotech-store
 <!DOCTYPE html><html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -61,22 +60,37 @@
     <h2>Shop</h2>
     <div class="product-grid">
       <div class="card">
-        <img src="https://ibb.co/hxNGkyBt" alt="Product 1">
+        <img src="https://i.ibb.co/YwK0DSQ/acer-predator.jpg" alt="Acer Predator Neo 16">
+        <h3>Acer Predator Neo 16 2023</h3>
+        <p>I5-13500HX hexacore processor<br>
+        RTX4060 8GB dedicated 140W<br>
+        16GB DDR5 RAM dual channel<br>
+        512GB M.2 SUPER FAST SSD<br>
+        16" 165 Hz fast refresh rate screen<br>
+        2560 x 1440P (2K) Display<br>
+        4 ZONE RGB KEYBOARD<br>
+        Original 330W power supply & Packaging<br>
+        <strong>Freebies:</strong> Laptop stand & gaming mouse<br>
+        <strong>₦1,600,000</strong></p>
+        <a href="https://wa.me/+234 805 857 5124?text=Hello%20Bravotech%2C%20I%20want%20to%20buy%20Acer%20Predator%20Neo%2016%202023" target="_blank"><button>Buy Now</button></a>
+      </div>
+      <div class="card">
+        <img src="https://i.ibb.co/KckL3yjV/redmagic-nova-tablet.jpg" alt="Redmagic Nova Tablet">
+        <h3>Redmagic Nova Gaming Tablet 16/512GB</h3>
+        <p>₦1,100,000</p>
+        <a href="https://wa.me/+234 805 857 5124?text=Hello%20Bravotech%2C%20I%20want%20to%20buy%20Redmagic%20Nova%20Gaming%20Tablet%2016%2F512GB" target="_blank"><button>Buy Now</button></a>
+      </div>
+      <div class="card">
+        <img src="https://i.ibb.co/6chHZhT/redmagic-7-pro.jpg" alt="Redmagic 7 Pro">
+        <h3>Redmagic 7 Pro 16/256GB</h3>
+        <p>₦525,000</p>
+        <a href="https://wa.me/+234 805 857 5124?text=Hello%20Bravotech%2C%20I%20want%20to%20buy%20Redmagic%207%20Pro%2016%2F256GB" target="_blank"><button>Buy Now</button></a>
+      </div>
+      <div class="card">
+        <img src="https://i.ibb.co/hxNGkyBt/redmagic.jpg" alt="Redmagic 10 Pro">
         <h3>Redmagic 10 Pro 12/256</h3>
-        <p>₦1.20m</p>
-        <a href="https://wa.me/2340000000000?text=Hello%20Bravotech%2C%20I%20want%20to%20buy%20Smart%20Watch" target="_blank"><button>Buy Now</button></a>
-      </div>
-      <div class="card">
-        <img src="https://via.placeholder.com/200" alt="Product 2">
-        <h3>Wireless Earbuds</h3>
-        <p>$30.00</p>
-        <a href="https://wa.me/2340000000000?text=Hello%20Bravotech%2C%20I%20want%20to%20buy%20Wireless%20Earbuds" target="_blank"><button>Buy Now</button></a>
-      </div>
-      <div class="card">
-        <img src="https://via.placeholder.com/200" alt="Product 3">
-        <h3>Bluetooth Speaker</h3>
-        <p>$40.00</p>
-        <a href="https://wa.me/2340000000000?text=Hello%20Bravotech%2C%20I%20want%20to%20buy%20Bluetooth%20Speaker" target="_blank"><button>Buy Now</button></a>
+        <p>₦1.15m</p>
+        <a href="https://wa.me/+234 805 857 5124?text=Hello%20Bravotech%2C%20I%20want%20to%20buy%20Redmagic%2010%20Pro%2012%2F256" target="_blank"><button>Buy Now</button></a>
       </div>
     </div>
   </section>  <section id="gallery" class="container">
@@ -89,7 +103,7 @@
   </section>  <section id="contact" class="container">
     <h2>Contact Us</h2>
     <p>Email: bravotech@gmail.com</p>
-    <p>WhatsApp: +234 000 000 0000</p>
+    <p>WhatsApp: +234 805 857 5124</p>
   </section>  <footer>
     <p>&copy; 2025 Bravotech. All rights reserved.</p>
   </footer>

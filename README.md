@@ -61,9 +61,9 @@
     <h2>Shop</h2>
     <div class="product-grid">
       <div class="card">
-        <img src="https://via.placeholder.com/200" alt="Product 1">
-        <h3>Smart Watch</h3>
-        <p>$50.00</p>
+        <img src="https://ibb.co/hxNGkyBt" alt="Product 1">
+        <h3>Redmagic 10 Pro 12/256</h3>
+        <p>₦1.20m</p>
         <a href="https://wa.me/2340000000000?text=Hello%20Bravotech%2C%20I%20want%20to%20buy%20Smart%20Watch" target="_blank"><button>Buy Now</button></a>
       </div>
       <div class="card">
